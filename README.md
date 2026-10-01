@@ -138,15 +138,21 @@ The tested relationships were not statistically significant at the 5% significan
 
 ## Project Files
 
-```text
-├── README.md
-├── data/
-├── analysis/
-├── visualizations/
-└── report/
+## Project Files
+
+## Project Files
+
+- `Both updated dataset.csv` — Video Game Reviews dataset
+- `Health_Monitoring_Dataset.csv` — Health Monitoring dataset
+- `Barsha_Barman_Capstone_Project_Report.pdf` — Final capstone report
+- `Barsha_Barman_Capstone_Project_Presentation.pptx` — Project presentation
 
 ## Author
 
 **Barsha Barman**
 
 Data Analytics | Python | Statistical Analysis | Data Visualization
+
+## Academic Project
+
+This project was completed as part of an academic capstone project.
