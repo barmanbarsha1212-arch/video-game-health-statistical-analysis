@@ -95,7 +95,6 @@ Smoking Status is binary while Blood Pressure is continuous.
 - Mean Review Score: **80.62**
 - Review Score IQR: **17.25**
 - No statistical outliers were identified in Review Score.
-- Hours Played showed positive right-skewness.
 - Pearson correlation between Hours Played and Review Score:
 
 **r = 0.01, p = 0.96**
