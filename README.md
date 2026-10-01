@@ -138,10 +138,6 @@ The tested relationships were not statistically significant at the 5% significan
 
 ## Project Files
 
-## Project Files
-
-## Project Files
-
 - `Both updated dataset.csv` — Video Game Reviews dataset
 - `Health_Monitoring_Dataset.csv` — Health Monitoring dataset
 - `Barsha_Barman_Capstone_Project_Report.pdf` — Final capstone report
